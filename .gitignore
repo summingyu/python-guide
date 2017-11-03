@@ -1,6 +1,6 @@
 docs/_build
 .idea
-
+*test*
 # Ignore irrelevant files from the Sublime Text editor
 *.sublime-workspace
 *.sublime-project
